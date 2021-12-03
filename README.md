@@ -71,7 +71,7 @@ Next, find i such that the distance of featVec_i from featVec_1 is minimum and t
 
 ![](https://github.com/Ash1sh7/FaceRecognitionUsingSaimeseNetwork/blob/main/wiki_images/IMAGE%209.jpg)
 
-## **# (8)App**
+## **# (8)Web Browser**
 _(app.py)_
 
 Test in your web browser using the Flask app!
